@@ -8,6 +8,11 @@ A collection of research papers and notes on time series analysis.
 | Yong Liu, et al. | AutoTimes: Autoregressive Time Series Forecasters via Large Language Models | NeurIPS 2024 | LLM, Forecast, Autoregressive | https://arxiv.org/abs/2402.02370 |
 | H. Kamarthi and B.A.Prakash | Large Pre-trained time series models for cross-domain Time series analysis tasks | NeurIPS 2024 | LLM, SSL, Cross-Domain | https://arxiv.org/abs/2311.11413 |
 
+## Transformer-based
+| Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
+|-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
+| Yihe Wang, et al. | Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification | NeurIPS 2024 | Transformer, Medical, Classification | https://arxiv.org/abs/2405.19363 |
+
 ## with MAE
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
