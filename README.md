@@ -16,19 +16,19 @@ MTS: Multivariate Time Series
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
 | Yihe Wang, et al. | Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification | NeurIPS 2024 | Transformer, Medical, Classification | https://arxiv.org/abs/2405.19363 |
-| Haoyi Zhou, et al. | Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting | AAAI 2021 | Transformer, LSTF | https://ojs.aaai.org/index.php/AAAI/article/view/17325 |
+| Haoyi Zhou, et al. | Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting | AAAI 2021 | Transformer, LSTF | https://arxiv.org/abs/2012.07436 |
 | Qingsong Wen, et al. | Transformers in Time Series: A Survey | IJCAI 2023 | Transformer, Survey Paper | https://arxiv.org/abs/2202.07125 |
-| Y. Zhang and J. Yan | Crossformer: Transformer Utilizing Crossdimension Dependency for Multivariate Time  Series Forecasting | ICLR 2023 | Transformer, MTS | https://openreview.net/forum?id=vSVLM2j9eie |
+| Y. Zhang and J. Yan | Crossformer: Transformer Utilizing Crossdimension Dependency for Multivariate Time Series Forecasting | ICLR 2023 | Transformer, MTS | https://openreview.net/forum?id=vSVLM2j9eie |
 | Yuqi Nie, et al. | (PatchTST) A Time Series is Woeth 64 Words:  Long-Term Forecasting with Transformers | ICLR 2023 | Transformer, SSL | https://arxiv.org/abs/2211.14730 |
 
 
 ## SSL
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
-| Kexin Zhang, et al. | Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects | IEEE 2024 | SSL, Survey Paper |  |
+| Kexin Zhang, et al. | Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects | IEEE 2024 | SSL, Survey Paper | https://arxiv.org/abs/2306.10125 |
 | Zhe Li, et al. | Ti-MAE: Self-Supervised Masked Time Series Autoencoders  |   | MAE, SSL | https://arxiv.org/abs/2301.08871 |
-| Zhihan Yue, et al. | TS2Vec: Towards Universal Representation of Time Series  |  AAAI 2022 | Contrastive Learning, SSL | https://ojs.aaai.org/index.php/AAAI/article/view/20881 |
-| Dongsheng Luo, et al. | Time Series Contrastive Learning with Information-Aware Augmentations | AAAI 2023 | Contrastive Learning, SSL | https://ojs.aaai.org/index.php/AAAI/article/view/25575 |
-| Jiaxiang Dong, et al. | SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling | NeurIPS 2023 | SSL, Masked Modeling |  |
-| Yucheng Shi, et al. | GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction  | CIKM 2023 | MAE | https://dl.acm.org/doi/abs/10.1145/3583780.3614894 |
+| Zhihan Yue, et al. | TS2Vec: Towards Universal Representation of Time Series  |  AAAI 2022 | Contrastive Learning, SSL | https://arxiv.org/abs/2106.10466 |
+| Dongsheng Luo, et al. | Time Series Contrastive Learning with Information-Aware Augmentations | AAAI 2023 | Contrastive Learning, SSL | https://arxiv.org/abs/2303.11911 |
+| Jiaxiang Dong, et al. | SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling | NeurIPS 2023 | SSL, Masked Modeling | https://arxiv.org/abs/2302.00861 |
+| Yucheng Shi, et al. | GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction  | CIKM 2023 | MAE | https://arxiv.org/abs/2308.09663 |
 
