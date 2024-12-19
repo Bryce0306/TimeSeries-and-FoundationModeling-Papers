@@ -29,6 +29,6 @@ MTS: Multivariate Time Series
 | Zhe Li, et al. | Ti-MAE: Self-Supervised Masked Time Series Autoencoders  |   | MAE, SSL | https://arxiv.org/abs/2301.08871 |
 | Zhihan Yue, et al. | TS2Vec: Towards Universal Representation of Time Series  |  AAAI 2022 | Contrastive Learning, SSL | https://ojs.aaai.org/index.php/AAAI/article/view/20881 |
 | Dongsheng Luo, et al. | Time Series Contrastive Learning with Information-Aware Augmentations | AAAI 2023 | Contrastive Learning, SSL | https://ojs.aaai.org/index.php/AAAI/article/view/25575 |
-| Jiaxiang Dong, et al. | SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling | NeurIPS 2023 | SSL, Masked Modeling | https://proceedings.neurips.cc/paper_files/paper/2023/hash/5f9bfdfe3685e4ccdbc0e7fb29cccf2a-Abstract-Conference.html |
+| Jiaxiang Dong, et al. | SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling | NeurIPS 2023 | SSL, Masked Modeling |  |
 | Yucheng Shi, et al. | GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction  | CIKM 2023 | MAE | https://dl.acm.org/doi/abs/10.1145/3583780.3614894 |
 
