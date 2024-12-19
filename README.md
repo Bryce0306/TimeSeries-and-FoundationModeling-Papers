@@ -1,5 +1,7 @@
 # Time Series and Foundation Modeling Papers
 A collection of research papers and notes on time series analysis. 
+LSTF: Long Sequence Time-Series Forecasting
+MTS: Multivariate Time Series
 
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
@@ -12,8 +14,15 @@ A collection of research papers and notes on time series analysis.
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
 | Yihe Wang, et al. | Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification | NeurIPS 2024 | Transformer, Medical, Classification | https://arxiv.org/abs/2405.19363 |
+| Haoyi Zhou, et al. | Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting | AAAI 2021 | Transformer, LSTF | https://ojs.aaai.org/index.php/AAAI/article/view/17325 |
+| Qingsong Wen, et al. | Transformers in Time Series: A Survey | IJCAI 2023 | Transformer, LSTF | https://arxiv.org/abs/2202.07125 |
+| Y. Zhang and J. Yan | Crossformer: Transformer Utilizing Crossdimension Dependency for Multivariate Time  Series Forecasting | ICLR 2023 | Transformer, MTS | https://openreview.net/forum?id=vSVLM2j9eie |
+| Yuqi Nie, et al. | (PatchTST) A Time Series is Woeth 64 Words:  Long-Term Forecasting with Transformers | ICLR 2023 | Transformer, MTS | https://arxiv.org/abs/2211.14730 |
+
 
 ## with MAE
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
 | Zhe Li, et al. | Ti-MAE: Self-Supervised Masked Time Series Autoencoders  |   | MAE, SSL | https://arxiv.org/abs/2301.08871 |
+| Yucheng Shi, et al. | GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction  | CIKM 2023 | MAE | https://dl.acm.org/doi/abs/10.1145/3583780.3614894 |
+
