@@ -1,9 +1,30 @@
 # Time Series and Foundation Modeling Papers
-A collection of research papers and notes on time series analysis.  
+This repository collects and organizes research papers on time series analysis and foundation models.   
 
-LSTF: Long Sequence Time-Series Forecasting  
-MTS: Multivariate Time Series  
-TSFMs: Time Series Foundation Models  
+#### Abbreviations
+- **LSTF**: Long Sequence Time-Series Forecasting  
+- **MTS**: Multivariate Time Series  
+- **TSFMs**: Time Series Foundation Models  
+
+#### Organization
+ The organization of this repository is inspired by the taxonomy proposed in the paper [Foundation Models for Time Series Analysis: A Tutorial and Survey](https://arxiv.org/abs/2403.14735). Papers are categorized into the following groups:
+1. **Model Architecture**: Papers are grouped based on the underlying architecture, such as:
+   - **Transformer-based Models**
+   - **Non-transformer-based Models**
+   - **Diffusion-based Models**
+
+2. **Pre-training Techniques**: Subcategories under each architecture are based on the learning methods used, including:
+   - Fully-supervised
+   - Self-supervised (e.g., contrastive learning, generative learning)
+
+3. **Adaptation Strategies**: Methods for applying foundation models to specific tasks, such as:
+   - Zero-shot learning
+   - Fine-tuning
+   - Prompt engineering
+
+Each paper is listed under its respective category with its title, authors, proceeding, keywords, and a link to the full text.
+
+## Transformer-based Models
 
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
