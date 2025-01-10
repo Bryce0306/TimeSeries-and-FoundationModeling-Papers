@@ -10,7 +10,7 @@ This repository collects and organizes research papers on time series analysis a
  The organization of this repository is inspired by the taxonomy proposed in the paper [Foundation Models for Time Series Analysis: A Tutorial and Survey](https://arxiv.org/abs/2403.14735). Papers are categorized into the following groups:
 1. **Model Architecture**: Papers are grouped based on the underlying architecture, such as:
    - **Transformer-based Models**
-   - **Non-transformer-based Models**
+   - **Non-transformer-based Models**: MLP, RNN, CNN, etc.
    - **Diffusion-based Models**
 
 2. **Pre-training Techniques**: Subcategories under each architecture are based on the learning methods used, including:
@@ -24,7 +24,7 @@ This repository collects and organizes research papers on time series analysis a
 
 Each paper is listed under its respective category with its title, authors, proceeding, keywords, and a link to the full text.
 
-Additionally, a separate category, **Discussion Papers**, includes works that critically evaluate existing approaches or methodologies in time series modeling.
+Additionally, a separate category, **Discussion Papers**, includes works that critically evaluate existing approaches or methodologies in time series modeling:
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
 | Yuxuan Liang, et al. | Foundation Models for Time Series Analysis: A Tutorial and Survey  | KDD 2024 | Survey Paper, TSFMs | https://arxiv.org/abs/2403.14735 |
@@ -45,8 +45,9 @@ Additionally, a separate category, **Discussion Papers**, includes works that cr
 | **Generative learning**                                                                                         |
 | Yuqi Nie, et al. | (PatchTST) A Time Series is Woeth 64 Words:  Long-Term Forecasting with Transformers | ICLR 2023 | Transformer, SSL | https://arxiv.org/abs/2211.14730 |
 | Zhe Li, et al. | Ti-MAE: Self-Supervised Masked Time Series Autoencoders  |   | MAE, SSL | https://arxiv.org/abs/2301.08871 |
-| Jiaxiang Dong, et al. | SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling | NeurIPS 2023 | SSL, Masked Modeling | https://arxiv.org/abs/2302.00861 |
 | Yucheng Shi, et al. | GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction  | CIKM 2023 | MAE | https://arxiv.org/abs/2308.09663 |
+| **Hybrid**                                                                                         |
+| Jiaxiang Dong, et al. | SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling | NeurIPS 2023 | SSL, Masked Modeling | https://arxiv.org/abs/2302.00861 |
 
 
 ### Fully-supervised learning
