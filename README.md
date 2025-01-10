@@ -3,6 +3,7 @@ A collection of research papers and notes on time series analysis.
 
 LSTF: Long Sequence Time-Series Forecasting  
 MTS: Multivariate Time Series  
+TSFMs: Time Series Foundation Models  
 
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
