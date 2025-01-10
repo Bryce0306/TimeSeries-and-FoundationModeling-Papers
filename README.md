@@ -7,6 +7,7 @@ TSFMs: Time Series Foundation Models
 
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
+| Yuxuan Liang, et al. | Foundation Models for Time Series Analysis: A Tutorial and Survey  | KDD 2024 | Survey Paper, TSFMs | https://arxiv.org/abs/2406.16964 |
 | Mingtian Tan, et al. | Are Language Models Actually Useful for Time Series Forecasting?  | NeurIPS 2024 | LLM | https://arxiv.org/abs/2406.16964 |
 | Xin Liu, et al. | Large Language Models are Few-Shot Health Learners  |  | LLM, Health | https://arxiv.org/abs/2305.15525 |
 | Yong Liu, et al. | AutoTimes: Autoregressive Time Series Forecasters via Large Language Models | NeurIPS 2024 | LLM, Forecast, Autoregressive | https://arxiv.org/abs/2402.02370 |
