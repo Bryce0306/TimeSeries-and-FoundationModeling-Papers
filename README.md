@@ -14,18 +14,17 @@ This repository collects and organizes research papers on time series analysis a
    - **Diffusion-based Models**
 
 2. **Pre-training Techniques**: Subcategories under each architecture are based on the learning methods used, including:
-   - Fully-supervised
-   - Self-supervised (e.g., contrastive learning, generative learning)
+   - **Fully-supervised**
+   - **Self-supervised**: Includes contrastive, generative, and hybrid approaches.
 
 3. **Adaptation Strategies**: Methods for applying foundation models to specific tasks, such as:
-   - Zero-shot learning
-   - Fine-tuning
-   - Prompt engineering
+   - **Zero-shot learning**
+   - **Fine-tuning**
+   - **Prompt engineering**
 
 Each paper is listed under its respective category with its title, authors, proceeding, keywords, and a link to the full text.
 
 ## Transformer-based Models
-
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
 | Yuxuan Liang, et al. | Foundation Models for Time Series Analysis: A Tutorial and Survey  | KDD 2024 | Survey Paper, TSFMs | https://arxiv.org/abs/2403.14735 |
