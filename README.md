@@ -38,9 +38,6 @@ Additionally, a separate category, **Discussion Papers**, includes works that cr
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
 | **Contrastive learning**                                                                                         |
-| Zhihan Yue, et al. | TS2Vec: Towards Universal Representation of Time Series  |  AAAI 2022 | Contrastive Learning, SSL | https://arxiv.org/abs/2106.10466 |
-| Dongsheng Luo, et al. | Time Series Contrastive Learning with Information-Aware Augmentations | AAAI 2023 | Contrastive Learning, SSL | https://arxiv.org/abs/2303.11911 |
-| Xin Liu, et al. | Large Language Models are Few-Shot Health Learners  |  | LLM, Health | https://arxiv.org/abs/2305.15525 |
 | Yong Liu, et al. | AutoTimes: Autoregressive Time Series Forecasters via Large Language Models | NeurIPS 2024 | LLM, Forecast, Autoregressive | https://arxiv.org/abs/2402.02370 |
 | H. Kamarthi and B.A.Prakash | Large Pre-trained time series models for cross-domain Time series analysis tasks | NeurIPS 2024 | LLM, SSL, Cross-Domain | https://arxiv.org/abs/2311.11413 |
 | **Generative learning**                                                                                         |
@@ -57,8 +54,12 @@ Additionally, a separate category, **Discussion Papers**, includes works that cr
 
 
 ## Non-transformer-based Models
+### Self-supervised learning
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
+| **Contrastive learning**                                                                                         |
+| Zhihan Yue, et al. | TS2Vec: Towards Universal Representation of Time Series  |  AAAI 2022 | Contrastive Learning, SSL | https://arxiv.org/abs/2106.10466 |
+| Dongsheng Luo, et al. | (InfoTS) Time Series Contrastive Learning with Information-Aware Augmentations | AAAI 2023 | Contrastive Learning, SSL | https://arxiv.org/abs/2303.11911 |
 | Haoyi Zhou, et al. | Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting | AAAI 2021 | Transformer, LSTF | https://arxiv.org/abs/2012.07436 |
 | Y. Zhang and J. Yan | Crossformer: Transformer Utilizing Crossdimension Dependency for Multivariate Time Series Forecasting | ICLR 2023 | Transformer, MTS | https://openreview.net/forum?id=vSVLM2j9eie |
 
@@ -74,3 +75,4 @@ This section includes papers that, while not strictly categorized as foundation 
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
 | Yihe Wang, et al. | Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification | NeurIPS 2024 | Transformer, Medical, Classification, Modifications: Embedding, Attention | https://arxiv.org/abs/2405.19363 |
+| Xin Liu, et al. | Large Language Models are Few-Shot Health Learners  |  | LLM, Health | https://arxiv.org/abs/2305.15525 |
