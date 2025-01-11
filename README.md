@@ -3,6 +3,7 @@ This repository collects and organizes research papers on time series analysis a
 
 #### Abbreviations
 - **LSTF**: Long Sequence Time-Series Forecasting  
+- **UTS**: Univariate Time Series  
 - **MTS**: Multivariate Time Series  
 - **TSFMs**: Time Series Foundation Models  
 
@@ -58,7 +59,6 @@ Additionally, a separate category, **Discussion Papers**, includes works that cr
 ## Non-transformer-based Models
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
-| Yihe Wang, et al. | Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification | NeurIPS 2024 | Transformer, Medical, Classification | https://arxiv.org/abs/2405.19363 |
 | Haoyi Zhou, et al. | Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting | AAAI 2021 | Transformer, LSTF | https://arxiv.org/abs/2012.07436 |
 | Y. Zhang and J. Yan | Crossformer: Transformer Utilizing Crossdimension Dependency for Multivariate Time Series Forecasting | ICLR 2023 | Transformer, MTS | https://openreview.net/forum?id=vSVLM2j9eie |
 
@@ -69,3 +69,8 @@ Additionally, a separate category, **Discussion Papers**, includes works that cr
 | H. Ji and P.Zhou | Advancing PPG-Based Continuous Blood Pressure Monitoring from a Generative Perspective | SENSYS 2024 | Diffusion Model, Medical | https://dl.acm.org/doi/abs/10.1145/3666025.3699365 |
 
 
+# Other Notable Time Series Transformer Papers
+This section includes papers that, while not strictly categorized as foundation models, are significant contributions to time series analysis using Transformer-based architectures. 
+| Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
+|-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
+| Yihe Wang, et al. | Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification | NeurIPS 2024 | Transformer, Medical, Classification, Modifications: Embedding, Attention | https://arxiv.org/abs/2405.19363 |
