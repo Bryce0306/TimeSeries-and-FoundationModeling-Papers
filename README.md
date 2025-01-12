@@ -44,7 +44,7 @@ Additionally, a separate category, **Discussion Papers**, includes works that cr
 | **Contrastive learning**                                                                                         |
 | H. Kamarthi and B.A.Prakash | Large Pre-trained time series models for cross-domain Time series analysis tasks | NeurIPS 2024 | LLM, SSL, Cross-Domain | https://arxiv.org/abs/2311.11413 |
 | **Generative learning**                                                                                         |
-| Yuqi Nie, et al. | (PatchTST) A Time Series is Woeth 64 Words:  Long-Term Forecasting with Transformers | ICLR 2023 | Transformer, SSL | https://arxiv.org/abs/2211.14730 |
+| Yuqi Nie, et al. | (PatchTST) A Time Series is Woeth 64 Words:  Long-Term Forecasting with Transformers | ICLR 2023 | Transformer, SSL, MAE | https://arxiv.org/abs/2211.14730 |
 | Zhe Li, et al. | Ti-MAE: Self-Supervised Masked Time Series Autoencoders  |   | MAE, SSL | https://arxiv.org/abs/2301.08871 |
 | Yucheng Shi, et al. | GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction  | CIKM 2023 | MAE | https://arxiv.org/abs/2308.09663 |
 | **Hybrid**                                                                                         |
