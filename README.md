@@ -34,11 +34,14 @@ Additionally, a separate category, **Discussion Papers**, includes works that cr
 | Kexin Zhang, et al. | Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects | IEEE 2024 | SSL, Survey Paper | https://arxiv.org/abs/2306.10125 |
 
 ## Transformer-based Models
+| Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
+|-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
+| Yong Liu, et al. | AutoTimes: Autoregressive Time Series Forecasters via Large Language Models | NeurIPS 2024 | Pretrained LLM, Forecast, Autoregressive | https://arxiv.org/abs/2402.02370 |
+
 ### Self-supervised learning
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
 |-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
 | **Contrastive learning**                                                                                         |
-| Yong Liu, et al. | AutoTimes: Autoregressive Time Series Forecasters via Large Language Models | NeurIPS 2024 | LLM, Forecast, Autoregressive | https://arxiv.org/abs/2402.02370 |
 | H. Kamarthi and B.A.Prakash | Large Pre-trained time series models for cross-domain Time series analysis tasks | NeurIPS 2024 | LLM, SSL, Cross-Domain | https://arxiv.org/abs/2311.11413 |
 | **Generative learning**                                                                                         |
 | Yuqi Nie, et al. | (PatchTST) A Time Series is Woeth 64 Words:  Long-Term Forecasting with Transformers | ICLR 2023 | Transformer, SSL | https://arxiv.org/abs/2211.14730 |
