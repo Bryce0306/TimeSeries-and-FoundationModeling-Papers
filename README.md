@@ -64,6 +64,8 @@ Additionally, a separate category, **Discussion Papers**, includes works that cr
 | **Contrastive learning**                                                                                         |
 | Zhihan Yue, et al. | TS2Vec: Towards Universal Representation of Time Series  |  AAAI 2022 | Contrastive Learning, SSL | https://arxiv.org/abs/2106.10466 | 589 |
 | Gerald Woo, et al. | CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting  |  ICLR 2022 | Contrastive Learning, SSL | https://arxiv.org/abs/2202.01575 | 291 |
+| Chi Ian Tang, et al. | Exploring Contrastive Learning in Human Activity Recognition for Healthcare  |  NeurIPS 2020 | Contrastive Learning, SSL | https://arxiv.org/abs/2011.11542 | 144 |
+| Hugo Ye`che, et al. | Neighborhood Contrastive Learning Applied to Online Patient Monitoring  |  	ICML 2021 | Contrastive Learning, SSL | https://arxiv.org/abs/2106.05142 | 43 |
 | Dongsheng Luo, et al. | (InfoTS) Time Series Contrastive Learning with Information-Aware Augmentations | AAAI 2023 | Contrastive Learning, SSL | https://arxiv.org/abs/2303.11911 | 52 |
 | Haoyi Zhou, et al. | Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting | AAAI 2021 | Transformer, LSTF | https://arxiv.org/abs/2012.07436 | 4254 |
 | Y. Zhang and J. Yan | Crossformer: Transformer Utilizing Crossdimension Dependency for Multivariate Time Series Forecasting | ICLR 2023 | Transformer, MTS | https://openreview.net/forum?id=vSVLM2j9eie | 602 |
