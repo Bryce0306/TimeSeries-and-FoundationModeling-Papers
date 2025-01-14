@@ -60,7 +60,7 @@ Additionally, a separate category, **Discussion Papers**, includes works that cr
 ## Non-transformer-based Models
 ### Self-supervised learning
 | Author            | Title                                                | Proceeding   | KeyWords | Link                                     | Citations  |
-|-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
+|-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|------------|
 | **Contrastive learning**                                                                                         |
 | Zhihan Yue, et al. | TS2Vec: Towards Universal Representation of Time Series  |  AAAI 2022 | Contrastive Learning, SSL | https://arxiv.org/abs/2106.10466 | 589 |
 | Gerald Woo, et al. | CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting  |  ICLR 2022 | Contrastive Learning, SSL | https://arxiv.org/abs/2202.01575 | 291 |
