@@ -65,10 +65,12 @@ Additionally, a separate category, **Discussion Papers**, includes works that cr
 | Zhihan Yue, et al. | TS2Vec: Towards Universal Representation of Time Series  |  AAAI 2022 | Contrastive Learning, SSL | https://arxiv.org/abs/2106.10466 | 589 |
 | Gerald Woo, et al. | CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting  |  ICLR 2022 | Contrastive Learning, SSL | https://arxiv.org/abs/2202.01575 | 291 |
 | Chi Ian Tang, et al. | Exploring Contrastive Learning in Human Activity Recognition for Healthcare  |  NeurIPS 2020 | Contrastive Learning, SSL | https://arxiv.org/abs/2011.11542 | 144 |
+| Xiang Zhang, et al. | Self-Supervised Contrastive Pre-Training for Time Series via Time-Frequency Consistency  |  	NeruIPS 2022 | Contrastive Learning, SSL, Time-Frequency Consistency | https://arxiv.org/abs/2206.08496 | 279 |
+| Emadeldeen Eldele, et al. | Time-Series Representation Learning via Temporal and Contextual Contrasting  |  	IJCAI 2021 | Contrastive Learning, SSL | https://arxiv.org/abs/2106.14112 | 510 |
+| Manuel Nonnenmacher, et al. | Utilizing Expert Features for Contrastive Learning  of Time-Series Representations  |  	ICML 2022 | Contrastive Learning, SSL | https://arxiv.org/abs/2206.11517 | 30 |
 | Hugo Ye`che, et al. | Neighborhood Contrastive Learning Applied to Online Patient Monitoring  |  	ICML 2021 | Contrastive Learning, SSL | https://arxiv.org/abs/2106.05142 | 43 |
 | Dongsheng Luo, et al. | (InfoTS) Time Series Contrastive Learning with Information-Aware Augmentations | AAAI 2023 | Contrastive Learning, SSL | https://arxiv.org/abs/2303.11911 | 52 |
-| Haoyi Zhou, et al. | Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting | AAAI 2021 | Transformer, LSTF | https://arxiv.org/abs/2012.07436 | 4254 |
-| Y. Zhang and J. Yan | Crossformer: Transformer Utilizing Crossdimension Dependency for Multivariate Time Series Forecasting | ICLR 2023 | Transformer, MTS | https://openreview.net/forum?id=vSVLM2j9eie | 602 |
+
 
 
 ## Diffusion-based Models
@@ -79,7 +81,9 @@ Additionally, a separate category, **Discussion Papers**, includes works that cr
 
 # Other Notable Time Series Transformer Papers
 This section includes papers that, while not strictly categorized as foundation models, are significant contributions to time series analysis using Transformer-based architectures. 
-| Author            | Title                                                | Proceeding   | KeyWords | Link                                     |
-|-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|
-| Yihe Wang, et al. | Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification | NeurIPS 2024 | Transformer, Medical, Classification, Modifications: Embedding, Attention | https://arxiv.org/abs/2405.19363 |
-| Xin Liu, et al. | Large Language Models are Few-Shot Health Learners  |  | LLM, Health | https://arxiv.org/abs/2305.15525 |
+| Author            | Title                                                | Proceeding   | KeyWords | Link                                     | Citations  |
+|-------------------|------------------------------------------------------|--------------|----------|------------------------------------------|------------|
+| Yihe Wang, et al. | Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification | NeurIPS 2024 | Transformer, Medical, Classification, Modifications: Embedding, Attention | https://arxiv.org/abs/2405.19363 | 4 |
+| Xin Liu, et al. | Large Language Models are Few-Shot Health Learners  |  | LLM, Health | https://arxiv.org/abs/2305.15525 | 100 |
+| Haoyi Zhou, et al. | Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting | AAAI 2021 | Transformer, LSTF | https://arxiv.org/abs/2012.07436 | 4254 |
+| Y. Zhang and J. Yan | Crossformer: Transformer Utilizing Crossdimension Dependency for Multivariate Time Series Forecasting | ICLR 2023 | Transformer, MTS | https://openreview.net/forum?id=vSVLM2j9eie | 602 |
